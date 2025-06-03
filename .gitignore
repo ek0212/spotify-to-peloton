@@ -1,0 +1,19 @@
+# Ignore virtual environment directory
+venv/
+
+# Ignore cache directories
+.cache/
+
+# Ignore environment file
+.env
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore webdriver manager files
+# This might include downloaded drivers and related files depending on the OS and exact version
+.wdm/
+
+# Ignore common OS and IDE files
+.DS_Store
+Thumbs.db 
