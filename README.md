@@ -49,7 +49,7 @@ This Python script connects to your Spotify account to retrieve your top artists
         ```env
         SPOTIPY_CLIENT_ID='YOUR_CLIENT_ID'
         SPOTIPY_CLIENT_SECRET='YOUR_CLIENT_SECRET'
-        SPOTIPY_REDIRECT_URI='http://localhost:8888/callback'
+        SPOTIPY_REDIRECT_URI='http://127.0.0.1:8888/callback'
         ```
         Replace `YOUR_CLIENT_ID` and `YOUR_CLIENT_SECRET` with your actual Spotify API credentials.
 
